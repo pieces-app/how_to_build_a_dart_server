@@ -1,0 +1,9 @@
+name: how_to_build_a_dart_server
+description: A New local Dart Server
+version: 1.0.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  shelf_plus: ^1.9.2
